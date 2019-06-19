@@ -1,0 +1,29 @@
+{
+  "name": "nodewebservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "mongood": "0.0.5",
+    "mongoose": "^5.5.2",
+    "nodemailer": "^6.1.1",
+    "request": "^2.88.0"
+  },
+  "engines": {
+    "node": "5.0.0",
+    "npm": "4.6.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongood": "0.0.5",
+    "mongoose": "^5.5.2"
+  }
+}
