@@ -3,7 +3,7 @@
 const request = require('request');
 
 
-const base_url = 'https://logistica-reversa.atlassian.net';
+const base_url = 'https://logistica-reversa1.atlassian.net';
 const rest_api_issue_url = base_url + '/rest/api/3/issue/';
 const search_with_jql = base_url + '/rest/api/3/search';
 const jiraModel = require('../models/jiraModel');
